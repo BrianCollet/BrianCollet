@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Collet</h1>
 <h3 align="center">A passionate fullstack developer from Southern California 🌞</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, and GraphQL**
+- 🌱 I’m currently learning **JavaScript, React, Qt, and GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://briancollet.com](https://briancollet.com)
 
