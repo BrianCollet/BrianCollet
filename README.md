@@ -19,4 +19,4 @@ I operate with a customer-centric mindset and excel at identifying and understan
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briancollet&show_icons=true&theme=gotham&locale=en&layout=compact" alt="briancollet" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briancollet&label=Profile%20views&color=0e75b6&style=flat" alt="briancollet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=briancollet&label=Profile%20views&color=269b7e&style=flat" alt="briancollet" /> </p>
