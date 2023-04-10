@@ -16,6 +16,7 @@ I operate with a customer-centric mindset and excel at identifying and understan
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briancollet&show_icons=true&theme=gotham&locale=en&layout=compact" alt="briancollet" /></p>
