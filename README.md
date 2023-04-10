@@ -13,7 +13,7 @@ I operate with a customer-centric mindset and excel at identifying and understan
 <a href="https://dev.to/bbbrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bbbrian" height="30" width="40" /></a>
 </p>
 
-## Blog posts
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
