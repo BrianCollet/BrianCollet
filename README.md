@@ -21,7 +21,7 @@ I operate with a customer-centric mindset and excel at identifying and understan
 
 ## 📲 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/brian-collet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-collet" height="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/briancollet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-collet" height="30" /></a>&nbsp;
   <a href="https://twitter.com/bbbriandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbbriandev" height="30" /></a>&nbsp;
   <a href="https://dev.to/bbbrian" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="bbbrian" height="30" /></a>&nbsp;
   <a href="https://www.codewars.com/users/bbbrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/codewars/branding/master/logo.svg" alt="bbbrian" height="30" /></a>
