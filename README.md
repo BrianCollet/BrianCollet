@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Collet</h1>
-<h3 align="center">A Cloud Engineer / Fullstack Software Engineer from Southern California 🌞</h3>
+<h3 align="center">A Cloud Support Engineer at Microsoft</h3>
 
-I operate with a customer-centric mindset and excel at identifying and understanding clients' needs. I pride myself on my ability to listen, empathize, and respond to client concerns, consistently delivering tailored solutions that exceed expectations. I am a team player who draws upon the unique strengths and insights of each team member, as I believe that collective effort and diverse perspectives pave the way for success. I am incredibly passionate about creating modern, responsive, and accessible websites using JavaScript, React, and Tailwind while harnessing the power of Microsoft Azure to build scalable and efficient solutions.
+Eventually I'll write a blurb here 😂
 
 ## 🧰 Languages and Tools:
 <p align="left">
