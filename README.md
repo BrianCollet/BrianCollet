@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian Collet. I'm a cloud engineer with a focus on DevOps!</h1>
+<h1 align="center">Hi 👋, I'm Brian Collet.</h1>
+<h3 align="center">I'm a cloud engineer with a focus on DevOps!</h3>
 
 ## 🧰 Languages and Tools:
 <p align="left">
