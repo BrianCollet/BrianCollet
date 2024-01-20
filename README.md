@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Collet</h1>
-<h3 align="center">A Cloud Support Engineer at Microsoft</h3>
-
-Eventually I'll write a blurb here 😂
+<h1 align="center">Hi 👋, I'm Brian Collet. I'm a cloud engineer with a focus on DevOps!</h1>
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -22,16 +19,10 @@ Eventually I'll write a blurb here 😂
 ## 📲 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/briancollet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-collet" height="30" /></a>&nbsp;
-  <a href="https://twitter.com/bbbriandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbbriandev" height="30" /></a>&nbsp;
   <a href="https://dev.to/bbbrian" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="bbbrian" height="30" /></a>&nbsp;
-  <a href="https://www.codewars.com/users/bbbrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/codewars/branding/master/logo.svg" alt="bbbrian" height="30" /></a>
 </p>
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
 <!-- BLOG-POST-LIST:END -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briancollet&show_icons=true&theme=gotham&locale=en&layout=compact" alt="briancollet" /></p>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=briancollet&label=Profile%20views&color=269b7e&style=for-the-badge" alt="briancollet" /> </p>
