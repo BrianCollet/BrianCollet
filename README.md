@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Collet.</h1>
-<h3 align="center">I'm a cloud engineer with a focus on DevOps!</h3>
+<h3 align="center">I'm a Cloud Engineer at Microsoft!</h3>
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -19,11 +19,14 @@
 
 ## 📲 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/briancollet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-collet" height="30" /></a>&nbsp;
-  <a href="https://dev.to/bbbrian" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="bbbrian" height="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/briancollet" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" height="30" /></a>&nbsp;
+  <a href="https://briancollet.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" alt="briancollet.com" height="30" /></a>&nbsp;
 </p>
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable Highly Privileged Azure AD Users with Azure Logic Apps and Microsoft Graph API](https://dev.to/bbbrian/how-to-disable-azure-ad-users-with-azure-logic-apps-and-microsoft-graph-api-48kl)
+- [Assigning API Permissions to a Managed Identity in Azure Using PowerShell](https://briancollet.com/posts/assigning-api-permissions-to-a-managed-identity-in-azure-using-powershell/)
+- [BrianCollet.com](https://briancollet.com/projects/briancollet.com/)
+- [Onboard Automator](https://briancollet.com/projects/onboard-automator/)
+- [Disabling Highly Privileged Entra Users with Azure Logic Apps and Graph API](https://briancollet.com/posts/disabling-highly-privileged-entra-users-with-azure-logic-apps-and-graph-api/)
 <!-- BLOG-POST-LIST:END -->
