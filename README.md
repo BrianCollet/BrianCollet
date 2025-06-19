@@ -32,6 +32,7 @@
 </p>
 
 ## 📝 Latest Blog Posts
+- [Umami Cloud API Wrapper Built with ASP.NET Core](https://briancollet.com/projects/umami-cloud-api-wrapper/)
 - [Assigning API Permissions to a Managed Identity in Azure Using PowerShell](https://briancollet.com/posts/assigning-api-permissions-to-a-managed-identity-in-azure-using-powershell/)
 - [BrianCollet.com](https://briancollet.com/projects/briancollet.com/)
 - [Onboard Automator](https://briancollet.com/projects/onboard-automator/)
